@@ -18,7 +18,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/smartwalle/ncrypto"
+	"github.com/zhushiqiang/ncrypto"
 )
 
 var (
